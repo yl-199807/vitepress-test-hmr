@@ -1,0 +1,16 @@
+{
+  "name": "vitepress-test-hmr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yl-199807/vitepress-test-hmr.git",
+  "author": "yl-199807 <846622356@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
